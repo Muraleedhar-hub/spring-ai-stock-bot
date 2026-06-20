@@ -23,6 +23,8 @@ The project relies on the following key dependencies:
 
 ## Getting Started
 
+<img width="1912" height="1107" alt="image" src="https://github.com/user-attachments/assets/581f1e71-19db-48f6-ba86-a4746eecfc08" />
+
 To get started with this project, ensure you have Java 23 and Maven installed on your system. Then, follow these steps:
 
 1. Set up your Anthropic API key:
